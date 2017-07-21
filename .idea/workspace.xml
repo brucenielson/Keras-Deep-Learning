@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8a79350-69bb-45de-88f6-cff74b22f8bb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cifar10_weights.h5" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KerasDLCh3-CIFAR-1.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KerasDLCh3-LeNet.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cifar10_architecture.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/KerasDLCh1-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/KerasDLCh1-checkpoint.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KerasDLCh1.ipynb" afterPath="$PROJECT_DIR$/KerasDLCh1.ipynb" />
-    </list>
+    <list default="true" id="b8a79350-69bb-45de-88f6-cff74b22f8bb" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
