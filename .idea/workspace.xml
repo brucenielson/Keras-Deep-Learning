@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8a79350-69bb-45de-88f6-cff74b22f8bb" name="Default" comment="" />
+    <list default="true" id="b8a79350-69bb-45de-88f6-cff74b22f8bb" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KerasDLCh3-CIFAR-2.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KerasDLCh3-CIFAR-1.ipynb" afterPath="$PROJECT_DIR$/KerasDLCh3-CIFAR-1.ipynb" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +31,8 @@
       <file leaf-file-name="keras_CIFAR10_simple.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DeepLearningwithKeras_Code/Chapter03/keras_CIFAR10_simple.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="963">
-              <caret line="99" column="10" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="99" selection-end-column="10" />
+            <state relative-caret-position="468">
+              <caret line="84" column="32" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="99" selection-end-column="10" />
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
               </folding>
@@ -39,8 +43,8 @@
       <file leaf-file-name="keras_CIFAR10_V1.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DeepLearningwithKeras_Code/Chapter03/keras_CIFAR10_V1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1821">
-              <caret line="97" column="53" lean-forward="true" selection-start-line="97" selection-start-column="53" selection-end-line="97" selection-end-column="53" />
+            <state relative-caret-position="528">
+              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
               </folding>
@@ -79,6 +83,7 @@
         <option value="$PROJECT_DIR$/KerasDLCh3.ipynb" />
         <option value="$PROJECT_DIR$/DeepLearningwithKeras_Code/Chapter03/KerasDLCh3-CIFAR.ipynb" />
         <option value="$PROJECT_DIR$/KerasDLCh3-CIFAR.ipynb" />
+        <option value="$PROJECT_DIR$/KerasDLCh3-CIFAR-2.ipynb" />
       </list>
     </option>
   </component>
@@ -290,8 +295,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="2182" height="1402" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23804972" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23804972" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972524" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35643566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -425,16 +431,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningwithKeras_Code/Chapter03/keras_CIFAR10_simple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="963">
-          <caret line="99" column="10" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="99" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/KerasDLCh3.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -456,10 +452,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningwithKeras_Code/Chapter03/keras_CIFAR10_simple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="84" column="32" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="99" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KerasDLCh3-CIFAR-2.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningwithKeras_Code/Chapter03/keras_CIFAR10_V1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1821">
-          <caret line="97" column="53" lean-forward="true" selection-start-line="97" selection-start-column="53" selection-end-line="97" selection-end-column="53" />
+        <state relative-caret-position="528">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
           <folding>
             <element signature="e#0#34#0" expanded="true" />
           </folding>
