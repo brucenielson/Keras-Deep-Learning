@@ -11,6 +11,10 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KerasDLCh3-CIFAR-2.ipynb" afterPath="$PROJECT_DIR$/KerasDLCh3-CIFAR-2.ipynb" />
 >>>>>>> b25ea7394d2e328ca4e84667d644023e990040b2
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KerasDLCh3-CIFAR-2.ipynb" afterPath="$PROJECT_DIR$/KerasDLCh3-CIFAR-2.ipynb" />
+>>>>>>> b25ea7394d2e328ca4e84667d644023e990040b2
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -98,7 +102,11 @@
         <option value="$PROJECT_DIR$/KerasDLCh3-CIFAR.ipynb" />
         <option value="$PROJECT_DIR$/KerasDLCh3-CIFAR-2.ipynb" />
 <<<<<<< HEAD
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/KerasDLCh3-CIFAR-3.ipynb" />
+=======
+        <option value="$PROJECT_DIR$/AIForRobots1Quizzes.ipynb" />
+>>>>>>> b25ea7394d2e328ca4e84667d644023e990040b2
 =======
         <option value="$PROJECT_DIR$/AIForRobots1Quizzes.ipynb" />
 >>>>>>> b25ea7394d2e328ca4e84667d644023e990040b2
@@ -316,6 +324,8 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
 =======
     <frame x="-11" y="-11" width="2182" height="1402" extended-state="6" />
+<<<<<<< HEAD
+>>>>>>> b25ea7394d2e328ca4e84667d644023e990040b2
 >>>>>>> b25ea7394d2e328ca4e84667d644023e990040b2
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18923241" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
