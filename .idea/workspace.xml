@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8a79350-69bb-45de-88f6-cff74b22f8bb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/keras_CIFAR10_V1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cifar10_weights.h5" afterPath="$PROJECT_DIR$/cifar10_weights.h5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KerasDLCh3-CIFAR-4.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/KerasDLCh3-CIFAR-3-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/KerasDLCh3-CIFAR-3-checkpoint.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KerasDLCh3-CIFAR-2.ipynb" afterPath="$PROJECT_DIR$/KerasDLCh3-CIFAR-2.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KerasDLCh3-CIFAR-3.ipynb" afterPath="$PROJECT_DIR$/KerasDLCh3-CIFAR-3.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cifar10_architecture.json" afterPath="$PROJECT_DIR$/cifar10_architecture.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -89,6 +84,7 @@
         <option value="$PROJECT_DIR$/KerasDLCh3-CIFAR.ipynb" />
         <option value="$PROJECT_DIR$/KerasDLCh3-CIFAR-2.ipynb" />
         <option value="$PROJECT_DIR$/AIForRobots1Quizzes.ipynb" />
+        <option value="$PROJECT_DIR$/DeepLearningwithKeras_Code/Chapter03/KerasDLCh3-CIFAR-4.ipynb" />
       </list>
     </option>
   </component>
@@ -194,6 +190,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Keras-Deep-Learning" />
       <recent name="C:\Users\BNielson\Google Drive\My Files\machine-learning\Keras-Deep-Learning" />
       <recent name="C:\Users\BNielson\Google Drive\My Files\machine-learning\Keras-Deep-Learning\DeepLearningwithKeras_Code" />
     </key>
@@ -299,15 +296,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24466951" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972524" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35536295" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35536295" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32223147" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3217768" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18318069" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -522,6 +518,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AIForRobots1Quizzes.ipynb" />
     <entry file="file://$PROJECT_DIR$/KerasDLCh3-CIFAR-3.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KerasDLCh3-CIFAR-4.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="3" />
