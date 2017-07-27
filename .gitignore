@@ -1,5 +1,3 @@
-*.xml
-
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -48,8 +46,4 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-\.idea
-.idea/Keras-Deep-Learning.iml
-.idea/workspace.xml
-.idea/workspace.xml
-*.xml
+.idea
