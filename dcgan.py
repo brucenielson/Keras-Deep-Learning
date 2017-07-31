@@ -90,7 +90,7 @@ def train(BATCH_SIZE):
     discriminator.compile(loss='binary_crossentropy', optimizer=d_optim)
     noise = np.zeros((BATCH_SIZE, 100))
     for epoch in range(100):
-        print("Epoch is", epoch)
+        print("Epoch is", epoch) 
         print("Number of batches", int(X_train.shape[0]/BATCH_SIZE))
         for index in range(int(X_train.shape[0]/BATCH_SIZE)):
             for i in range(BATCH_SIZE):
